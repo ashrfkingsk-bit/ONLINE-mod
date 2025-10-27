@@ -1,10 +1,10 @@
 {
-  "serverstatus": "true",
-  "noticemode": "false",
-  "dataclearmode": "false",
-  "servermeassage": "Wait We Are Working On a new Update",
-  "opentime": "Just wait few more times 🙂",
-  "libs": "https://github.com/ashrfkingsk-bit/ONLINE-mod/raw/refs/heads/main/onlinmod.zip",
-  "notice_title": "Status Is Safe ",
-  "notice_body": " Example body"
+    "serverstatus":"true",
+    "noticemode":"true",
+    "dataclearmode":"false",
+    "servermeassage":"Wait We Are Working On a new Update ! @ZENIN_MODS",
+    "opentime":" Wait For Some Time ⚡",
+    "libs":" put your link here ",
+    "notice_title":"Welcome To Vip Mod",
+    "notice_body":"@ZENIN_MODS"
 }
